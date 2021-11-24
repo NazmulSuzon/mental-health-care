@@ -1,0 +1,6 @@
+.therapist-card img{
+    /* height: 300px; */
+    /* width: 300px; */
+    display: flex;
+    justify-content: center;
+}

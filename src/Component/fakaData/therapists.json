@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Steve Devis",
+        "job":"Psychologist",
+        "img":"https://demo.moxcreative.com/therapica/wp-content/uploads/sites/44/2021/06/mature-psychologist-e1623738773389.jpg"
+    },
+    {
+        "id":2,
+        "name":"Maryland Alers",
+        "job":"Psychologist",
+        "img":"https://demo.moxcreative.com/therapica/wp-content/uploads/sites/44/2021/06/psychologist-at-work-e1623738868372.jpg"
+    },
+    {
+        "id":3,
+        "name":"Amy March",
+        "job":"Psychologist",
+        "img":"https://demo.moxcreative.com/therapica/wp-content/uploads/sites/44/2021/06/vertical-portrait-of-mature-50-years-asian-business-woman-on-grey-background--e1623738911734.jpg"
+    },
+    {
+        "id":4,
+        "name":"Nancy F McCracken",
+        "job":"Psychologist",
+        "img":"https://demo.moxcreative.com/therapica/wp-content/uploads/sites/44/2021/06/vertical-portait-of-happy-mature-50-years-old-business-woman-isolated-on-grey--e1623740342467.jpg"
+    },
+    {
+        "id":5,
+        "name":"Elizabeth J Norwood",
+        "job":"Psychologist",
+        "img":"https://demo.moxcreative.com/therapica/wp-content/uploads/sites/44/2021/06/mature-psychologist-e1623738773389.jpg"
+    },
+    {
+        "id":6,
+        "name":"Essie F Sledge",
+        "job":"Psychologist",
+        "img":"https://demo.moxcreative.com/therapica/wp-content/uploads/sites/44/2021/06/counselor-in-office-e1623740281165.jpg"
+    }
+]

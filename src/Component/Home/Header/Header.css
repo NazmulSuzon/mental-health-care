@@ -1,0 +1,31 @@
+.icon img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.nav-component a{
+    text-decoration: none;
+    margin: 5px;
+    /* transform: scale(1.02); */
+}
+.nav-component a:hover{
+    color: rgb(24, 243, 24);
+    font-weight: bold;
+    /* transition: .3s; */
+}
+.carousel img{
+    height: 600px;
+    
+}
+.carousel-text{
+    padding-bottom: 20px;
+
+}
+.carousel-button{
+    color: rgb(4, 224, 248);
+    color: black;
+}
+.carousel-button:hover{
+    background-color: greenyellow;
+    color: black;
+}

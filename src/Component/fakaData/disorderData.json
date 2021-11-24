@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "title":"Mood Disorders",
+        "details":"A mood disorder is a class of serious mental illnesses. The term broadly describes all types of depression and bipolar disorders.",
+        "img":"https://www.mind.plus/wp-content/uploads/2016/10/new-guidelines-for-mood-disorders-in-primary-care-173.jpg",
+        "name": "suzon",
+        "country":"Bangladesdh"
+    },
+    {
+        "id":2,
+        "title":"Anxiety Disorders",
+        "details":"Anxiety disorders are a type of mental health condition. Anxiety makes it difficult to get through your day.",
+        "img":"https://counselling-matters.org.uk/wp-content/uploads/2020/10/anxiety.svg"
+    },
+    {
+        "id":3,
+        "title":"Personality Disorders",
+        "details":"Personality disorders are long-term patterns of behavior and inner experiences that differs significantly from what is expected.",
+        "img":"https://i0.wp.com/starhealthline.com/wp-content/uploads/2021/04/Personality-Disorders.jpg?fit=1024%2C541&ssl=1"
+    },
+    {
+        "id":4,
+        "title":"Eating Disorders",
+        "details":"Eating disorders are behavioral characterized by severe and persistent disturbance in eating behaviors and associated emotions.",
+        "img":"https://ravishly.com/sites/default/files/images/article/2019-06/I%2520Don%25E2%2580%2599t%2520Want%2520My%2520Children%2520To%2520Inherit%2520My%2520Eating%2520Disorder.jpg"
+    },
+    {
+        "id":5,
+        "title":"Substance Abuse Disorders",
+        "details":"Substance use disorder is the persistent use of drugs (including alcohol) despite substantial harm and adverse consequences.",
+        "img":"http://www.psychiatrynyc.com/wp-content/uploads/2021/02/Neuropsychological-testing.jpg"
+    },
+    {
+        "id":6,
+        "title":"Trauma Disorders",
+        "details":"Trauma disorders are mental health conditions that are caused by a traumatic experience.",
+        "img":"https://www.childrensresourcegroup.com/wp-content/uploads/2019/02/Trauma-and-Stressor-Related-Disorders-CRG.jpg"
+    }
+]
