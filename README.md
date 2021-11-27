@@ -1,4 +1,4 @@
-# project name : mental health servicen
+# project name : Mental Health Care
 # Live Server: 
 
 https://mental-health-care-127b6.web.app/
