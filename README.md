@@ -3,11 +3,12 @@
 
 https://mental-health-care-127b6.web.app/
 
+# Technologies: 
+
+ReactJs, Firebase, Bootstrap, React Bootstrap.
+
 # Description:
 
-1. Our Therapia give mental support.
-2. Our specialist do their best to support our patience.
-3. There are so many people who can suffer so many mental disorder. We want to help them.
-4. Day by Day Mental health is becoming a problem.
-5. Our specialist always ready to help.
-6. We work with every type of people.
+1. Users can see what type of mental disorder exists.
+2. They can also see what service we provide. 
+3. They can get appointments after login.
